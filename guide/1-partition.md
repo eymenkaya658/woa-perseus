@@ -9,7 +9,7 @@
 
 - [ADB & Fastboot](https://developer.android.com/studio/releases/platform-tools)
 
-- [Modded OFOX recovery](https://github.com/n00b69/woa-perseus/releases/download/Files/modded-ofox-perseus.img)
+- [Modded OFOX recovery](https://github.com/eymenkaya658/woa-perseus/releases/download/Files/modded-ofox-perseus.img)
 
 ### Notes
 > [!WARNING]

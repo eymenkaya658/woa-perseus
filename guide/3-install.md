@@ -5,13 +5,13 @@
 ## Installing Windows
 
 ### Prerequisites
-- [UEFI image](https://github.com/n00b69/woa-perseus/releases/tag/UEFI)
+- [UEFI image](https://github.com/eymenkaya658/woa-perseus/releases/tag/UEFI)
 
 - [Windows on ARM image](https://arkt-7.github.io/woawin/)
   
-- [Drivers](https://github.com/n00b69/woa-perseus/releases/tag/Drivers)
+- [Drivers](https://github.com/eymenkaya658/woa-perseus/releases/tag/Drivers)
 
-- [Devcfg (touch fix)](https://github.com/n00b69/woa-perseus/releases/download/Files/devcfg-perseus.img)
+- [Devcfg (touch fix)](https://github.com/eymenkaya658/woa-perseus/releases/download/Files/devcfg-perseus.img)
 
 ### Boot into the UEFI
 > Replace `path\to\perseus-uefi.img` with the actual path of the UEFI image
